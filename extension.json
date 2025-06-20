@@ -1,0 +1,13 @@
+{
+  "name": "webserver",
+  "apiVersion": "1.0.0",
+  "author": "bap",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "webserver": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
